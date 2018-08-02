@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 瀑布模式:项目经理 定义好好dtd 接口 -->
+
+<!-- <!DOCTYPE student [
+  <!ELEMENT student (id,姓名,课程,成绩)>
+  <!ELEMENT author (#PCDATA)>
+  <!ELEMENT title  (#PCDATA)>
+  <!ELEMENT description (#PCDATA)>
+]> -->
+
+<students>
+	<student id="1001" class="com.hzit.bean.Hello">
+		<id>1</id>
+		<姓名>王同</姓名>
+		<课程>java</课程>
+		<成绩>89</成绩>
+	</student>
+	<student id="1002" class="com.hzit.bean.Test">
+		<id>2</id>
+		<姓名>李佳</姓名>
+
+		<课程>sql</课程>
+		<成绩>58</成绩>
+	</student>
+</students>
+

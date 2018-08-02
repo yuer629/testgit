@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<depts> 
+ <dept>
+  <deptno>1</deptno>
+  <dname>运营部</dname>
+  <loc>广东深圳宝安</loc>
+ </dept>
+ <dept>
+  <deptno>2</deptno>
+  <dname>财务部</dname>
+  <loc>深圳</loc>
+ </dept> 
+</depts>

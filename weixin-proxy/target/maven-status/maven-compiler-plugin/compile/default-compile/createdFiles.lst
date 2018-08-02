@@ -1,0 +1,5 @@
+com\yuer\util\WXTokenUtil.class
+com\yuer\msg\KFMsgProxy.class
+com\yuer\util\RedisPoolUtil.class
+com\yuer\account\AccountProxy.class
+com\yuer\user\UserProxy.class

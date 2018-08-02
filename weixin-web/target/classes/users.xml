@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+	<user class="com.hzit.bean.Users01">
+		<userId>1001</userId>
+		<userNmae>赵子龙</userNmae>
+		<pwd>12</pwd>
+	</user>
+	<user class="com.hzit.bean.Users02">
+		<userId>1002</userId>
+		<userNmae>张飞</userNmae>
+		<pwd>11</pwd>
+	</user>
+</users>
